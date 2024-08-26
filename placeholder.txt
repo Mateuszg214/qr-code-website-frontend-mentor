@@ -1,0 +1,5 @@
+  Improve your front-end skills by building projects
+
+  Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
